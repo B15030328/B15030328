@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [DOUYU](https://github.com/douyu)
+- 🔭 I’m currently working on [Douyu](https://github.com/douyu)
 
-- 🌱 I’m currently learning **go-kit,gin**
+- 🌱 I’m currently learning **go-kit, gin**
 
-- 👯 I’m good at [Timeseries Prediction](https://link.springer.com/chapter/10.1007/978-3-030-75762-5_61)
+- 👯 I’m good at [TimeSeries Prediction](https://link.springer.com/chapter/10.1007/978-3-030-75762-5_61)
 
 - 💬 Ask me about **golang,Timeseries Prediction**
 
@@ -28,3 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chory&show_icons=true&locale=en" alt="chory" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chory&" alt="chory" /></p>
