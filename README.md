@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chory&show_icons=true&locale=en" alt="chory" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chory&" alt="chory" /></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B15030328)](https://github.com/anuraghazra/github-readme-stats)
